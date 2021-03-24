@@ -5,9 +5,9 @@ The Google Colaboratory which provides free GPU access is used as the prorgrammi
 
 **Programs**<br>
 
- The programs given in the video is available in the folder programs. 
+ The programs given in the video are available in the folder programs. 
  
  **Tutorials**<br>
 
-The commands used in the video lecture is available as a .md file  and the presentaion as a .pptx file in the  folder tutorials.
+The commands used in the video lecture are  available in a .md file. The presentaion used in the video is availabe as a .pptx file. See tutorials folder.
   
