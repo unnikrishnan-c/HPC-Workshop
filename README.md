@@ -9,5 +9,5 @@ The Google Colaboratory which provides free GPU access is used as the prorgrammi
  
  **Tutorials**<br>
 
-The commands used in the video lecture is available as .md file  and the presentaion as .pptx file in the  folder tutorials.
+The commands used in the video lecture is available as a .md file  and the presentaion as a .pptx file in the  folder tutorials.
   
