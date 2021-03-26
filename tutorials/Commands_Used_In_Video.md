@@ -40,7 +40,7 @@ int main() {
 ```
 
 7) 
-```sh
+```console
 !./a.out
 Output: number of devices= 1
 ```
