@@ -40,8 +40,10 @@ int main() {
 ```
 
 7) 
-```console
+```sh
 !./a.out
+```
+```console
 Output: number of devices= 1
 ```
 
@@ -98,14 +100,18 @@ int main() {
 !g++-10 -fno-lto -fopenmp -foffload=nvptx-none -fstack-protector first.c -o first
 ```
 10) 
+```sh
+!./first
+```
 ```console
-! ./first
 Output: 571 210 119910 
 ```
 
 11) 
-```console
+```sh
 !nvprof ./first
+```
+```console
 Output: lenghty output with profiling information. first three lines
 ==1797== NVPROF is profiling process 1797, command: ./a.out
 571 210 119910 
