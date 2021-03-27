@@ -22,3 +22,8 @@ Google Colaboratory provides free GPU access and is used as the programming plat
 **[`Examples_FN/`](https://github.com/unnikrishnan-c/HPC-Workshop/tree/main/Examples_FN) folder**<br>
 
 Example [`OpenMP`](https://github.com/unnikrishnan-c/HPC-Workshop/tree/main/Examples_FN/OpenMP) and [`MPI`](https://github.com/unnikrishnan-c/HPC-Workshop/tree/main/Examples_FN/MPI) programs to try out in the forenoon lab session.
+
+
+**[`Examples_AN/`](https://github.com/unnikrishnan-c/HPC-Workshop/tree/main/Examples_AN) folder**<br>
+
+Example [`OpenMP GPU`] programs to try out in the afternoon lab session.
