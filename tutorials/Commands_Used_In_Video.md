@@ -91,7 +91,6 @@ int main() {
   }
 
   printf("%d %d %d \n", A[0][0], B[0][0], C[0][0]);
-  check();
 }
 
 ```
