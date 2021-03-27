@@ -15,3 +15,8 @@ Google Colaboratory provides free GPU access and is used as the programming plat
  - The presentation used in the video is available as [`OpenMP GPU Programming with Google Colab.pdf`](https://github.com/unnikrishnan-c/HPC-Workshop/blob/main/tutorials/OpenMP%20GPU%20Programming%20with%20Google%20Colab.pdf). 
  
  - The possible Linux commands which may be useful during lab session are marked with yellow color in the PDF file [`linux_commands.pdf`](https://github.com/unnikrishnan-c/HPC-Workshop/blob/main/tutorials/linux_commands.pdf). A subset of yellow-colored commands will be required for the lab session. 
+
+
+**[`Examples_FN/`](https://github.com/unnikrishnan-c/HPC-Workshop/tree/main/Examples_FN) folder**<br>
+
+Example [OpenMP](https://github.com/unnikrishnan-c/HPC-Workshop/tree/main/Examples_FN/OpenMP) and [MPI](https://github.com/unnikrishnan-c/HPC-Workshop/tree/main/Examples_FN/MPI) programs to try out in the forenoon lab session.
