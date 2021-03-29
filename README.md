@@ -28,6 +28,6 @@ Example [`OpenMP`](https://github.com/unnikrishnan-c/HPC-Workshop/tree/main/Exam
 
 Example `OpenMP GPU` programs to try out in the afternoon lab session. See [`Examples_AN/README.md`](https://github.com/unnikrishnan-c/HPC-Workshop/blob/main/Examples_AN/README.md) for instructions on how to compile the examples.
 
-The  pdf book available **[`here`] ( https://www.openmp.org/wp-content/uploads/openmp-examples-5.0.0.pdf)** has detailed explanation  of OpenMP 5.0 constructs with examples. 
-The pdf avaialable **[`here`] ( https://on-demand.gputechconf.com/gtc/2018/presentation/s8344-openmp-on-gpus-first-experiences-and-best-practices.pdf)** compares OpenMP on CPU and GPU. It also explains how to write efficient  OpenMP programs for GPUs.
+The  pdf book available [`here`](https://www.openmp.org/wp-content/uploads/openmp-examples-5.0.0.pdf) has detailed explanation  of OpenMP 5.0 constructs with examples. 
+The pdf avaialable [`here`](https://on-demand.gputechconf.com/gtc/2018/presentation/s8344-openmp-on-gpus-first-experiences-and-best-practices.pdf) compares OpenMP on CPU and GPU. It also explains how to write efficient  OpenMP programs for GPUs.
 
