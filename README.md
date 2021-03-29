@@ -27,6 +27,8 @@ Example [`OpenMP`](https://github.com/unnikrishnan-c/HPC-Workshop/tree/main/Exam
 **[`Examples_AN/`](https://github.com/unnikrishnan-c/HPC-Workshop/tree/main/Examples_AN) folder**<br>
 
 Example `OpenMP GPU` programs to try out in the afternoon lab session. See [`Examples_AN/README.md`](https://github.com/unnikrishnan-c/HPC-Workshop/blob/main/Examples_AN/README.md) for instructions on how to compile the examples. <br>
+
+
 **Useful Online Resources**<br>
 - The  **[`book`](https://www.openmp.org/wp-content/uploads/openmp-examples-5.0.0.pdf)** has detailed explanation  of OpenMP 5.0 constructs with examples.
 
