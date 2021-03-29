@@ -30,7 +30,7 @@ Example `OpenMP GPU` programs to try out in the afternoon lab session. See [`Exa
 **Useful Online Resources**<br>
 The  **[`book`](https://www.openmp.org/wp-content/uploads/openmp-examples-5.0.0.pdf)** has detailed explanation  of OpenMP 5.0 constructs with examples. <br>
 The  **[`presentation`](https://on-demand.gputechconf.com/gtc/2018/presentation/s8344-openmp-on-gpus-first-experiences-and-best-practices.pdf)** compares OpenMP on CPU and GPU. It also explains how to write efficient  OpenMP programs for GPUs. <br>
-Click here for **[FN Session](https://www.youtube.com/watch?v=uucY61yJlZs&t=1048s)** lecture  and  **[AN Session](https://www.youtube.com/watch?v=KABbqwbBOiM&t=9030s)** lectures  <br>
+Click  for **[FN Session](https://www.youtube.com/watch?v=uucY61yJlZs&t=1048s)**   and  **[AN Session](https://www.youtube.com/watch?v=KABbqwbBOiM&t=9030s)** lectures  <br>
 **TODO**<br>
 Comparison of OpenMP5.0 and CUDA matrix multiplication code. Will be updated in four days time. 
 
