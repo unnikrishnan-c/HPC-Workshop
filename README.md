@@ -38,5 +38,5 @@ Example `OpenMP GPU` programs to try out in the afternoon lab session. See [`Exa
 
 
 **TODO**<br>
-Comparison of OpenMP5.0 and CUDA matrix multiplication code. Will be updated in four days time. 
+Comparison of OpenMP5.0 and CUDA matrix multiplication code. Will be updated by April 2nd,2021. 
 
