@@ -32,7 +32,7 @@ Example `OpenMP GPU` programs to try out in the afternoon lab session. See [`Exa
 
 - The  **[`presentation`](https://on-demand.gputechconf.com/gtc/2018/presentation/s8344-openmp-on-gpus-first-experiences-and-best-practices.pdf)** compares OpenMP on CPU and GPU. It also explains how to write efficient  OpenMP programs for GPUs.
 
-- Click  for **[FN Session](https://www.youtube.com/watch?v=uucY61yJlZs&t=1048s)**   and  **[AN Session](https://www.youtube.com/watch?v=KABbqwbBOiM&t=9030s)** lectures 
+- Click  for **[FN Session](https://www.youtube.com/watch?v=uucY61yJlZs&t=1048s)**   and  **[AN Session](https://www.youtube.com/watch?v=KABbqwbBOiM&t=9030s)** recorded lectures.
 
 
 **TODO**<br>
