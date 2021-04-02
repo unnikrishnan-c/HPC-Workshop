@@ -37,6 +37,6 @@ Example `OpenMP GPU` programs to try out in the afternoon lab session. See [`Exa
 - Click  for **[FN Session](https://www.youtube.com/watch?v=uucY61yJlZs&t=1048s)**   and  **[AN Session](https://www.youtube.com/watch?v=KABbqwbBOiM&t=9030s)** recorded lectures.
 
 
-**[ `Matrix Multiplication Example` ](https://github.com/unnikrishnan-c/HPC-Workshop/blob/main/matrixmul.zip)**<br>
+**[ `Matrix Multiplication`](https://github.com/unnikrishnan-c/HPC-Workshop/blob/main/matrixmul.zip) Examples**<br>
  - The Matrix multiplication examples include serial program, different loop permutation and tiling for multi-core CPUs, CUDA and OpenMP 5.0 program for Nvidia GPUs.
 
